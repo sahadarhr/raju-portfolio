@@ -216,3 +216,11 @@ about-info-container {
 .contact-title{
   
 }
+/* footer styles */
+.footer{
+    font-size: 35px;
+    background-color: blue;
+    font-style: italic;
+    text-align: center;
+    text-decoration: dotted;
+}
